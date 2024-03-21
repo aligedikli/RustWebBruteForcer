@@ -51,7 +51,7 @@ impl Scanner {
         }
     }
 }
-
+// author: https://github.com/aligedikli/RustWebBruteForcer 
 #[tokio::main]
 async fn main() {
     println!("Enter the base URL:");
