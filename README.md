@@ -19,3 +19,15 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/aligedikli/RustWebBruteForcer.git
 cd RustWebBruteForcer
+```
+
+Build the project with Cargo:
+```bash
+cargo build
+```
+```bash
+cargo run
+```
+
+Follow the on-screen prompts to enter the base URL and the paths you want to scan, separated by commas.
+
